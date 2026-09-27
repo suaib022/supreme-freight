@@ -1,0 +1,116 @@
+{
+  "catalog_type": "packages",
+  "source_url": "https://apparent-badger-846283.framer.app/packages/",
+  "packages": [
+    {
+      "sequence": 1,
+      "name": "The Gathering",
+      "guest_capacity": "Up to 32 guests",
+      "description": "A complete, comfortable setup for intimate backyard celebrations without more tent than the event needs.",
+      "tent_included": "20′ × 20′ frame tent",
+      "site_space": "Approx. 30′ × 30′ clear area",
+      "includes": [
+        "4 round dining tables",
+        "32 white folding chairs",
+        "2 six-foot banquet tables",
+        "Event layout planning",
+        "Professional delivery and installation",
+        "Scheduled disassembly and pickup"
+      ],
+      "starting_price_usd": 1295,
+      "starting_price_display": "From $1,295",
+      "booking_url": "https://apparent-badger-846283.framer.app/contact"
+    },
+    {
+      "sequence": 2,
+      "name": "The Celebration",
+      "guest_capacity": "Up to 64 guests",
+      "description": "Our most versatile package for birthdays, showers, graduations, and relaxed receptions with room to dine and mingle.",
+      "tent_included": "20′ × 40′ frame tent",
+      "site_space": "Approx. 30′ × 50′ clear area",
+      "includes": [
+        "8 round dining tables",
+        "64 white folding chairs",
+        "2 six-foot banquet tables",
+        "Event layout planning",
+        "Professional delivery and installation",
+        "Scheduled disassembly and pickup"
+      ],
+      "starting_price_usd": 2195,
+      "starting_price_display": "From $2,195",
+      "booking_url": "https://apparent-badger-846283.framer.app/contact"
+    },
+    {
+      "sequence": 3,
+      "name": "The Grand Event",
+      "guest_capacity": "Up to 96 guests",
+      "description": "A larger event footprint with practical dining capacity and flexibility for buffet service, gifts, or entertainment.",
+      "tent_included": "30′ × 45′ frame tent",
+      "site_space": "Approx. 45′ × 60′ clear area",
+      "includes": [
+        "12 round dining tables",
+        "96 white folding chairs",
+        "3 six-foot banquet tables",
+        "Event layout planning",
+        "Professional delivery and installation",
+        "Scheduled disassembly and pickup"
+      ],
+      "starting_price_usd": 3295,
+      "starting_price_display": "From $3,295",
+      "booking_url": "https://apparent-badger-846283.framer.app/contact"
+    },
+    {
+      "sequence": 4,
+      "name": "The Big One",
+      "guest_capacity": "Up to 144 guests",
+      "description": "A substantial setup for weddings, company gatherings, fundraisers, and community events with a full guest list.",
+      "tent_included": "40′ × 60′ frame tent",
+      "site_space": "Approx. 55′ × 75′ clear area",
+      "includes": [
+        "18 round dining tables",
+        "144 white folding chairs",
+        "4 six-foot banquet tables",
+        "Event layout planning",
+        "Professional delivery and installation",
+        "Scheduled disassembly and pickup"
+      ],
+      "starting_price_usd": 5250,
+      "starting_price_display": "From $5,250",
+      "booking_url": "https://apparent-badger-846283.framer.app/contact"
+    }
+  ],
+  "custom_package": {
+    "name": "Build Your Own Package",
+    "description": "Guest lists, properties, and party plans do not always fit a preset bundle. Start with the rentals you know you need, and Oakdale Tents will help shape a complete setup around the event.",
+    "options": [
+      "Any available tent style and size",
+      "Custom table and chair quantities",
+      "Lighting, flooring, weather, and entertainment options",
+      "Delivery, professional installation, and pickup"
+    ],
+    "request_url": "https://apparent-badger-846283.framer.app/contact"
+  },
+  "add_on_packages": [
+    {
+      "name": "Weather-Ready Package",
+      "description": "Includes tent sidewalls plus season-appropriate fans or patio heaters.",
+      "price_display": "Not listed on the website"
+    },
+    {
+      "name": "After-Dark Package",
+      "description": "Includes overhead bistro lighting, LED uplights, and professional installation.",
+      "price_display": "Not listed on the website"
+    },
+    {
+      "name": "Dance Party Package",
+      "description": "Includes a right-sized dance floor, accent uplighting, and compact event audio.",
+      "price_display": "Not listed on the website"
+    },
+    {
+      "name": "Backyard Fun Package",
+      "description": "Includes a movie screen and projector, portable speakers, and lawn games.",
+      "price_display": "Not listed on the website"
+    }
+  ],
+  "pricing_note": "Package capacities and starting prices are planning estimates. Dance floors, buffet layouts, bars, site access, delivery distance, permits, and other additions may change the required footprint and final proposal."
+}

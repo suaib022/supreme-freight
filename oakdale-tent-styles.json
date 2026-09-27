@@ -1,0 +1,114 @@
+{
+  "catalog_type": "tent_styles",
+  "source_url": "https://apparent-badger-846283.framer.app/tent-styles/",
+  "tent_styles": [
+    {
+      "sequence": 1,
+      "category_label": "Classic Event Tents",
+      "name": "Pole Tents",
+      "description": "Traditional center-pole construction creates recognizable peaks and an open, festive silhouette. Best installed on grass where the full staking pattern can be used.",
+      "available_sizes": "20′ × 20′ to 40′ × 100′+",
+      "guest_range": "32–250+ seated",
+      "starting_price_usd": 650,
+      "starting_price_display": "From $650",
+      "best_for": [
+        "Weddings",
+        "Graduations",
+        "Large lawn parties"
+      ]
+    },
+    {
+      "sequence": 2,
+      "category_label": "Flexible Placement",
+      "name": "Frame Tents",
+      "description": "An aluminum frame supports the roof without center poles, giving you a clear interior and more placement flexibility on lawns, patios, or driveways.",
+      "available_sizes": "10′ × 10′ to 40′ × 100′+",
+      "guest_range": "16–220+ seated",
+      "starting_price_usd": 725,
+      "starting_price_display": "From $725",
+      "best_for": [
+        "Backyards",
+        "Patios",
+        "Dining layouts",
+        "Tight sites"
+      ]
+    },
+    {
+      "sequence": 3,
+      "category_label": "Polished Small-Format Cover",
+      "name": "High-Peak Frame Tents",
+      "description": "A frame-supported tent with a lifted center peak. It delivers a finished event look in smaller footprints without placing a support pole in the guest area.",
+      "available_sizes": "10′ × 10′ to 20′ × 40′",
+      "guest_range": "8–64 seated",
+      "starting_price_usd": 375,
+      "starting_price_display": "From $375",
+      "best_for": [
+        "Cocktail areas",
+        "Showers",
+        "Bars",
+        "Entrances"
+      ]
+    },
+    {
+      "sequence": 4,
+      "category_label": "Premium Wedding Style",
+      "name": "Sailcloth Tents",
+      "description": "Translucent sailcloth, rounded ends, and sculpted peaks create warm daytime light and a soft glow after dark. These tents require suitable ground for staking.",
+      "available_sizes": "32′ × 44′ to 59′ × 119′",
+      "guest_range": "60–300+ seated",
+      "starting_price_usd": 2400,
+      "starting_price_display": "From $2,400",
+      "best_for": [
+        "Weddings",
+        "Estate dinners",
+        "Formal celebrations"
+      ]
+    },
+    {
+      "sequence": 5,
+      "category_label": "Open-Sky Atmosphere",
+      "name": "Clear-Top Frame Tents",
+      "description": "Transparent vinyl roof panels preserve the pole-free frame-tent interior while opening the view overhead. Shade planning is important for warm daytime events.",
+      "available_sizes": "20′ × 20′ to 40′ × 80′",
+      "guest_range": "32–170 seated",
+      "starting_price_usd": 1450,
+      "starting_price_display": "From $1,450",
+      "best_for": [
+        "Evening receptions",
+        "Gardens",
+        "Scenic venues"
+      ]
+    },
+    {
+      "sequence": 6,
+      "category_label": "Rigid-Frame Event Structures",
+      "name": "Clearspan Structure Tents",
+      "description": "A heavy-duty aluminum structure creates a wide, unobstructed interior. Available configurations may include tensioned roof panels, rigid PVC or glass walls, doors, and integrated flooring.",
+      "available_sizes": "30′ × 30′ to 100′ × 200′+",
+      "guest_range": "75–750+ seated",
+      "starting_price_usd": null,
+      "starting_price_display": "Custom quote",
+      "best_for": [
+        "Large events",
+        "Long-term installs",
+        "Premium enclosures"
+      ]
+    },
+    {
+      "sequence": 7,
+      "category_label": "Simple Backyard Cover",
+      "name": "Party Canopies",
+      "description": "Straightforward overhead cover for casual gatherings where a full event tent is not necessary. An approachable option for smaller guest lists and simple layouts.",
+      "available_sizes": "10′ × 20′ to 20′ × 40′",
+      "guest_range": "12–64 seated",
+      "starting_price_usd": 295,
+      "starting_price_display": "From $295",
+      "best_for": [
+        "Birthdays",
+        "Cookouts",
+        "Graduation parties"
+      ]
+    }
+  ],
+  "pricing_note": "Starting prices are editable planning estimates for the template and may not include delivery, installation, permits, sidewalls, flooring, lighting, taxes, or site-specific labor. Final capacity depends on table style, dance floors, catering areas, and local requirements."
+}

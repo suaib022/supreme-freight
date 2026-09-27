@@ -1,0 +1,149 @@
+{
+  "catalog_type": "accessories",
+  "source_url": "https://apparent-badger-846283.framer.app/accessories/",
+  "categories": [
+    {
+      "category_group": "Comfort & Protection",
+      "name": "Weather Essentials",
+      "description": "Practical additions that help guests stay comfortable while giving your tent more protection from changing conditions.",
+      "items": [
+        {
+          "name": "Tent Sidewalls",
+          "description": "Solid, clear, or windowed panels that enclose selected sides of the tent.",
+          "options": [
+            "Solid",
+            "Windowed",
+            "Clear"
+          ],
+          "price_usd": null,
+          "price_display": "Custom quote"
+        },
+        {
+          "name": "Tent Fans",
+          "description": "Portable high-output fans that improve airflow inside warm-weather tents.",
+          "options": [
+            "Pedestal",
+            "Mounted"
+          ],
+          "price_usd": 85,
+          "price_display": "From $85"
+        },
+        {
+          "name": "Patio Heaters",
+          "description": "Freestanding propane heaters for cooler evenings and shoulder-season gatherings.",
+          "options": [
+            "Freestanding units"
+          ],
+          "price_usd": 110,
+          "price_display": "From $110"
+        }
+      ]
+    },
+    {
+      "category_group": "Atmosphere & Movement",
+      "name": "Lighting & Flooring",
+      "description": "Create a comfortable evening atmosphere and define the spaces where guests dine, mingle, and dance.",
+      "items": [
+        {
+          "name": "Bistro Lighting",
+          "description": "Warm overhead string lighting installed to suit the tent size and layout.",
+          "options": [
+            "Perimeter",
+            "Canopy layout"
+          ],
+          "price_usd": null,
+          "price_display": "Custom quote"
+        },
+        {
+          "name": "Dance Floors",
+          "description": "Portable finished flooring sized around attendance, entertainment, and available space.",
+          "options": [
+            "Multiple floor sizes"
+          ],
+          "price_usd": 650,
+          "price_display": "From $650"
+        },
+        {
+          "name": "Uplighting",
+          "description": "Compact accent lighting that adds color and dimension around the tent interior.",
+          "options": [
+            "Warm white",
+            "Color"
+          ],
+          "price_usd": 35,
+          "price_display": "From $35"
+        }
+      ]
+    },
+    {
+      "category_group": "Service & Gathering",
+      "name": "Furniture & Event Essentials",
+      "description": "Useful furniture for dining, drinks, catering, gifts, and all the practical moments surrounding the celebration.",
+      "items": [
+        {
+          "name": "Cocktail Tables",
+          "description": "Standing-height tables for drinks, mingling areas, and casual service.",
+          "options": [
+            "Round high-top tables"
+          ],
+          "price_usd": 24,
+          "price_display": "From $24"
+        },
+        {
+          "name": "Portable Bars",
+          "description": "Clean mobile bar fronts paired with optional service and cocktail tables.",
+          "options": [
+            "Bar",
+            "Back-bar options"
+          ],
+          "price_usd": 225,
+          "price_display": "From $225"
+        },
+        {
+          "name": "Linens",
+          "description": "Table linens selected around table shape, size, and the event palette.",
+          "options": [
+            "Multiple sizes",
+            "Multiple colors"
+          ],
+          "price_usd": null,
+          "price_display": "Custom quote"
+        }
+      ]
+    },
+    {
+      "category_group": "Something Extra",
+      "name": "Entertainment Add-Ons",
+      "description": "Optional experiences that give guests more to enjoy before dinner, after sunset, or throughout a backyard event.",
+      "items": [
+        {
+          "name": "Backyard Movie Theater",
+          "description": "Inflatable screen, projector, and speaker package for an outdoor movie night.",
+          "options": [
+            "Screen and AV package"
+          ],
+          "price_usd": 495,
+          "price_display": "From $495"
+        },
+        {
+          "name": "Lawn Games",
+          "description": "Casual outdoor games arranged as a flexible add-on for guests of different ages.",
+          "options": [
+            "Game bundles available"
+          ],
+          "price_usd": 95,
+          "price_display": "From $95"
+        },
+        {
+          "name": "Event Audio",
+          "description": "Simple amplified sound for announcements, playlists, and casual entertainment.",
+          "options": [
+            "Speaker packages"
+          ],
+          "price_usd": null,
+          "price_display": "Custom quote"
+        }
+      ]
+    }
+  ]
+}
